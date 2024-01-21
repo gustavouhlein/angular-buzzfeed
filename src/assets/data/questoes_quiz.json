@@ -1,0 +1,163 @@
+{
+	"title": "Qual área em tecnologia mais combina com você?",
+	"questions": [
+		{
+			"id": 1,
+			"question": "Qual linguagem de programação você prefere?",
+			"options": [
+				{ "id": 1, "name": "Python", "alias": "A" },
+				{ "id": 2, "name": "JavaScript", "alias": "B" },
+				{ "id": 3, "name": "C++", "alias": "C" },
+				{ "id": 4, "name": "Java", "alias": "D" },
+				{ "id": 5, "name": "Ruby", "alias": "E" }
+			]
+		},
+		{
+			"id": 2,
+			"question": "Qual área da tecnologia mais te atrai?",
+			"options": [
+				{ "id": 1, "name": "Desenvolvimento Web", "alias": "A" },
+				{ "id": 2, "name": "Inteligência Artificial", "alias": "B" },
+				{ "id": 3, "name": "Segurança da Informação", "alias": "C" },
+				{ "id": 4, "name": "Redes e Infraestrutura", "alias": "D" },
+				{ "id": 5, "name": "Desenvolvimento de Jogos", "alias": "E" }
+			]
+		},
+		{
+			"id": 3,
+			"question": "Qual habilidade você valoriza mais em um profissional de tecnologia?",
+			"options": [
+				{ "id": 1, "name": "Resolução de Problemas", "alias": "A" },
+				{ "id": 2, "name": "Criatividade", "alias": "B" },
+				{ "id": 3, "name": "Trabalho em Equipe", "alias": "C" },
+				{ "id": 4, "name": "Comunicação", "alias": "D" },
+				{ "id": 5, "name": "Adaptabilidade", "alias": "E" }
+			]
+		},
+		{
+			"id": 4,
+			"question": "Qual é o seu ambiente de trabalho ideal?",
+			"options": [
+				{ "id": 1, "name": "Startup", "alias": "A" },
+				{ "id": 2, "name": "Empresa Estabelecida", "alias": "B" },
+				{ "id": 3, "name": "Home Office", "alias": "C" },
+				{ "id": 4, "name": "Laboratório de Pesquisa", "alias": "D" },
+				{ "id": 5, "name": "Agência Criativa", "alias": "E" }
+			]
+		},
+		{
+			"id": 5,
+			"question": "O que te motiva mais na área de tecnologia?",
+			"options": [
+				{ "id": 1, "name": "Resolver Problemas Complexos", "alias": "A" },
+				{ "id": 2, "name": "Inovação e Novas Tecnologias", "alias": "B" },
+				{ "id": 3, "name": "Segurança e Proteção de Dados", "alias": "C" },
+				{
+					"id": 4,
+					"name": "Construção de Infraestrutura Sólida",
+					"alias": "D"
+				},
+				{ "id": 5, "name": "Experiência do Usuário", "alias": "E" }
+			]
+		},
+		{
+			"id": 6,
+			"question": "Como você se mantém atualizado sobre as últimas tendências tecnológicas?",
+			"options": [
+				{
+					"id": 1,
+					"name": "Participando de conferências e workshops",
+					"alias": "A"
+				},
+				{ "id": 2, "name": "Lendo blogs e artigos online", "alias": "B" },
+				{ "id": 3, "name": "Assistindo vídeos educativos", "alias": "C" },
+				{
+					"id": 4,
+					"name": "Colaborando em projetos de código aberto",
+					"alias": "D"
+				},
+				{ "id": 5, "name": "Dependendo da formação acadêmica", "alias": "E" }
+			]
+		},
+		{
+			"id": 7,
+			"question": "Como você lida com prazos apertados em projetos?",
+			"options": [
+				{
+					"id": 1,
+					"name": "Priorizando tarefas e trabalhando de forma eficiente",
+					"alias": "A"
+				},
+				{ "id": 2, "name": "Negociando prazos com a equipe", "alias": "B" },
+				{
+					"id": 3,
+					"name": "Trabalhando horas extras para atender aos prazos",
+					"alias": "C"
+				},
+				{
+					"id": 4,
+					"name": "Comunicando a situação e buscando soluções viáveis",
+					"alias": "D"
+				},
+				{
+					"id": 5,
+					"name": "Ficando estressado, mas cumprindo os prazos",
+					"alias": "E"
+				}
+			]
+		},
+		{
+			"id": 8,
+			"question": "O que mais te intriga na área de tecnologia?",
+			"options": [
+				{ "id": 1, "name": "Computação Quântica", "alias": "A" },
+				{ "id": 2, "name": "Realidade Aumentada e Virtual", "alias": "B" },
+				{ "id": 3, "name": "Internet das Coisas (IoT)", "alias": "C" },
+				{ "id": 4, "name": "Blockchain e Criptomoedas", "alias": "D" },
+				{
+					"id": 5,
+					"name": "Machine Learning aplicado a problemas específicos",
+					"alias": "E"
+				}
+			]
+		},
+		{
+			"id": 9,
+			"question": "Como você lida com feedback construtivo sobre seu trabalho?",
+			"options": [
+				{
+					"id": 1,
+					"name": "Aceito e uso para melhorar meu desempenho",
+					"alias": "A"
+				},
+				{
+					"id": 2,
+					"name": "Considero, mas mantenho minha abordagem",
+					"alias": "B"
+				},
+				{
+					"id": 3,
+					"name": "Peço mais detalhes para entender melhor",
+					"alias": "C"
+				},
+				{
+					"id": 4,
+					"name": "Defendo minhas escolhas, mas estou aberto a sugestões",
+					"alias": "D"
+				},
+				{
+					"id": 5,
+					"name": "Levo para o lado pessoal e fico chateado",
+					"alias": "E"
+				}
+			]
+		}
+	],
+	"results": {
+		"A": "Desenvolvimento ou Engenharia de Software pode ser a área ideal para você!",
+		"B": "Inteligência Artificial e Machine Learning podem ser seu caminho!",
+		"C": "Segurança da Informação é a área que mais combina com você!",
+		"D": "Redes e Infraestrutura podem ser seu foco principal!",
+		"E": "Desenvolvimento de Jogos pode ser a área perfeita para sua criatividade!"
+	}
+}
